@@ -1,0 +1,1 @@
+DEBUG=my-application securitySender=ff808081392eb9b201392f0b6d00009f userLogin=ff808081392eb9b201392f0b6d0200a3 userPwd=wCJFfx6F transactionChannel=ff808081392eb9b201392f0bfe3800a9 ./bin/www
